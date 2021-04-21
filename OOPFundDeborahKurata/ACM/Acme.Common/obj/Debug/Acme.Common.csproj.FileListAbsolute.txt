@@ -1,0 +1,6 @@
+D:\Games\Portfolio\VisualStudioProjects\OOPFundDeborahKurata\ACM\Acme.Common\bin\Debug\Acme.Common.dll
+D:\Games\Portfolio\VisualStudioProjects\OOPFundDeborahKurata\ACM\Acme.Common\bin\Debug\Acme.Common.pdb
+D:\Games\Portfolio\VisualStudioProjects\OOPFundDeborahKurata\ACM\Acme.Common\obj\Debug\Acme.Common.csprojAssemblyReference.cache
+D:\Games\Portfolio\VisualStudioProjects\OOPFundDeborahKurata\ACM\Acme.Common\obj\Debug\Acme.Common.csproj.CoreCompileInputs.cache
+D:\Games\Portfolio\VisualStudioProjects\OOPFundDeborahKurata\ACM\Acme.Common\obj\Debug\Acme.Common.dll
+D:\Games\Portfolio\VisualStudioProjects\OOPFundDeborahKurata\ACM\Acme.Common\obj\Debug\Acme.Common.pdb
